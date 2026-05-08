@@ -1,3 +1,4 @@
+
 function changeText() {
     document.querySelector('p').innerText = "You clicked the button!";
 }
@@ -29,3 +30,4 @@ sections.forEach(section => {
     section.style.transition = "all 0.8s ease";
 
 });
+
